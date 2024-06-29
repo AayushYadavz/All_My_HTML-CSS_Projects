@@ -10,16 +10,15 @@ This repository contains a collection of projects built using HTML, CSS that I'v
 | 2   | Frontend-Mentor-Blog-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Blog-preview-card/)                |
 | 3   | Project-07-Huddle-landing-page | [🔗 Link](https://aayushyadavz.github.io/Project-07-Huddle-landing-page/)                      |
 | 4   | Frontend-Mentor-NFT-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-NFT-preview-card/)                  |
-| 5   | Frontend-Mentor-Four-card-feature-section | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Four-card-feature-section/)|
-| 6   | Frontend-Mentor-3-Column-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-3-Column-preview-card/)        |
-| 7   | Frontend-Mentor-Single-price-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Single-price-card/)                |
-| 8  | Frontend-Mentor-Stats-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Stats-preview-card/)              |
-| 9  | Frontend-Mentor-Social-links-profile-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Social-links-profile-card/)|
-| 10  | Project-06-Mondrian-Painting-using-Grid | [🔗 Link](https://aayushyadavz.github.io/Project-06-Mondrian-Painting-using-Grid/)    |
-| 11  | Project-05-Pricing-cards | [🔗 Link]((https://aayushyadavz.github.io/Project-05-Pricing-cards/))                                |
-| 12  | Project-04-Resume-using-HTML | [🔗 Link](https://aayushyadavz.github.io/Project-04-Resume-using-HTML/)                          |
-| 13  | Project-03-Dev.com-Landing-page | [🔗 Link](https://aayushyadavz.github.io/Project-03-Dev.com-Landing-page/)                    |
-| 14  | Project-02-Meme-card | [🔗 Link](https://aayushyadavz.github.io/Project-02-Meme-card/)                                          |
-| 15  | Project-01-Amazon.Com-Clone | [🔗 Link](https://aayushyadavz.github.io/Project-01-Amazon.Com-Clone/)                            |
+| 5   | Frontend-Mentor-3-Column-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-3-Column-preview-card/)        |
+| 6   | Frontend-Mentor-Single-price-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Single-price-card/)                |
+| 7  | Frontend-Mentor-Stats-preview-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Stats-preview-card/)              |
+| 8  | Frontend-Mentor-Social-links-profile-card | [🔗 Link](https://aayushyadavz.github.io/Frontend-Mentor-Social-links-profile-card/)|
+| 9  | Project-06-Mondrian-Painting-using-Grid | [🔗 Link](https://aayushyadavz.github.io/Project-06-Mondrian-Painting-using-Grid/)    |
+| 10  | Project-05-Pricing-cards | [🔗 Link]((https://aayushyadavz.github.io/Project-05-Pricing-cards/))                                |
+| 11  | Project-04-Resume-using-HTML | [🔗 Link](https://aayushyadavz.github.io/Project-04-Resume-using-HTML/)                          |
+| 12  | Project-03-Dev.com-Landing-page | [🔗 Link](https://aayushyadavz.github.io/Project-03-Dev.com-Landing-page/)                    |
+| 13  | Project-02-Meme-card | [🔗 Link](https://aayushyadavz.github.io/Project-02-Meme-card/)                                          |
+| 14  | Project-01-Amazon.Com-Clone | [🔗 Link](https://aayushyadavz.github.io/Project-01-Amazon.Com-Clone/)                            |
 
 ## 🤝 Contributors
