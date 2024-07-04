@@ -1,4 +1,4 @@
-# 🌟 HTML, CSS, and Vanilla JavaScript Projects 🚀
+# 🌟 HTML, CSS Projects 🚀
 
 This repository contains a collection of projects built using HTML, CSS that I've created over the past year. Previously, each project was housed in separate repositories, but I've recently consolidated them into this single repository for easier management and organization.
 
